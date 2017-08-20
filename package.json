@@ -1,0 +1,24 @@
+{
+  "name": "portfolio-materialize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "materialize-css": "^0.100.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vincefio/portfolio-materialize.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vincefio/portfolio-materialize/issues"
+  },
+  "homepage": "https://github.com/vincefio/portfolio-materialize#readme"
+}
