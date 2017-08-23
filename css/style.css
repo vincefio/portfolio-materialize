@@ -11,6 +11,15 @@ nav .brand-logo {
   color: #444;
 }
 
+#linkedinicon{
+  height: 64px;
+  width: 64px;;
+}
+
+.icon{
+  float: left;
+}
+
 p {
   line-height: 2rem;
 }
